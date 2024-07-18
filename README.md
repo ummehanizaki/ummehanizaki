@@ -9,8 +9,4 @@ I bring a unique blend of skills in backend development, blockchain solutions, a
 - 🏗️ AWS Solutions
 - 📫 You can reach me for consulting / development on Twitter (https://twitter.com/ummehani_zaki)
 
-## Dev
-
-5 years leading and developing a wide variety of projects, designing their architecture, and infrastructure.
-
 Preferred Stack: Solidity + Hardhat, FastAPI / Node.js / Go, TypeScript, React + Next.js, AWS, Postgres, Redis
