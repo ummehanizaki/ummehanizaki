@@ -37,11 +37,3 @@ A seasoned remote collaborator, I thrive in dynamic startup environments, delive
 
 </div>
 
-## 📈 My GitHub stats
-
-<div class="badges-githubstats">
-  <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ummehanizaki&theme=tokyonight&hide_border=true" alt="ummehani's Streak" height="165">
-  </p>
-</div>
-
