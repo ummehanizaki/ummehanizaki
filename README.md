@@ -4,7 +4,7 @@
 
 <div class="github-introduction">
 
-Passionate **Web Developer** with a knack for transforming ideas into engaging digital experiences. Growing up immersed in the internet's evolution, I've developed a deep-rooted enthusiasm for crafting fast, responsive, and accessible websites and web applications.
+Passionate **Web Developer** with a knack for transforming ideas into engaging digital experiences. Growing up immersed in the internet's evolution, I've developed a deep-rooted enthusiasm for crafting secure, responsive, and accessible web applications / Dapps.
 
 My expertise spans backend development, blockchain integration, and DevOps. I excel at crafting robust APIs and keepers, complemented by DevOps skills for seamless backend deployment.
 
