@@ -6,7 +6,7 @@
 
 Passionate **Web Developer** with a knack for transforming ideas into engaging digital experiences. Growing up immersed in the internet's evolution, I've developed a deep-rooted enthusiasm for crafting fast, responsive, and accessible websites and web applications.
 
-My expertise spans backend development, blockchain integration, and DevOps. With a strong foundation in Ethereum and Hyperledger, I specialize in building secure, scalable, and efficient solutions. I excel at crafting robust APIs and keepers, complemented by DevOps skills for seamless backend deployment.
+My expertise spans backend development, blockchain integration, and DevOps. I excel at crafting robust APIs and keepers, complemented by DevOps skills for seamless backend deployment.
 
 A seasoned remote collaborator, I thrive in dynamic startup environments, delivering impactful projects through effective teamwork.
 
