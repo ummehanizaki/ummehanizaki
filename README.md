@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi! I'm Hani!
 
-<!--
-**ummehanizaki/ummehanizaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
 
-Here are some ideas to get you started:
+I bring a unique blend of skills in backend development, blockchain solutions, and DevOps. With a focus on Ethereum and Hyperledger technologies, I excel in crafting secure and efficient solutions. Additionally, my expertise extends to building complete APIs and keepers, coupled with DevOps knowledge to deploy robust backends for DApp development. Having thrived in startup remote environments, I'm adept at collaborating across distributed teams to deliver impactful solutions.
+- 🌱 Backend Developer 
+- 🔐 Smart Contract Developer | Solidity
+- 🛠 Platform Engineer | FastAPI | Node.js | Go
+- 🏗️ AWS Solutions
+- 📫 You can reach me for consulting / development on Twitter (https://twitter.com/ummehani_zaki)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Dev
+
+5 years leading and developing a wide variety of projects, designing their architecture, and infrastructure.
+
+Preferred Stack: Solidity + Hardhat, FastAPI / Node.js / Go, TypeScript, React + Next.js, AWS, Postgres, Redis
