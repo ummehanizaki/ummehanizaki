@@ -13,7 +13,6 @@ A seasoned remote collaborator, I thrive in dynamic startup environments, delive
 </div>
 
 - 💼 Got a freelance gig? Hit me up via <a href="mailto:ummehanizaki@gmail.com">email.</a>
-- 💬 Curious? Just ask!
 
 <div class="badges-intro">
 
