@@ -12,7 +12,7 @@ A seasoned remote collaborator, I thrive in dynamic startup environments, delive
 
 </div>
 
-- 💼 Got a freelance gig? Hit me up via <a href="mailto:ummehanizaki@gmail.com">email.</a>
+💼 Got a freelance gig? Hit me up via <a href="mailto:ummehanizaki@gmail.com">email.</a>
 
 <div class="badges-intro">
 
